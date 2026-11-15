@@ -1,1 +1,2 @@
 Fork PR trigger control; no executable payload.
+Second harmless fork-only commit to emit a normal git push event.
